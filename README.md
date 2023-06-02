@@ -1,0 +1,2 @@
+# multilanguage
+django add multilanguage
